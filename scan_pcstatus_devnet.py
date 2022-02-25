@@ -20,4 +20,5 @@ def scan_parti():
     print("Total de Armazenamento:", round(armazenamento[0]/(1024*1024*1024),2), 'GB')
     print("Total de Armazenamento Disponível:", round(armazenamento[2]/(1024*1024*1024),2), 'GB')
 scan_parti()
+# versionamento funciona !
 
